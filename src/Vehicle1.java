@@ -43,3 +43,4 @@ public class Vehicle1 {
         v2.fuelType();
     }
 }
+
